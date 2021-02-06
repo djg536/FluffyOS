@@ -8,4 +8,5 @@ I would recommend the NASM assembler and Bochs emulator.
 
 ## Commands to Compile and Run
 nasm bootloader.asm -f bin -o ../bin/bootloader.bin
+<br/>
 bochs -q -f bochs_config.bxrc
