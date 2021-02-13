@@ -1,2 +1,2 @@
-floppya: 1_44="bin/bootloader.bin", status=inserted
+floppya: 1_44="bin/FluffyOS", status=inserted
 boot: floppy
